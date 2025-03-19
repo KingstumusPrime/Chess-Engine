@@ -1,6 +1,6 @@
 # Chess Engine
 
-This is a simple chess engine written in JavaScript. I was just starting to get into chess, so I figured this project was a great way to mix my passions. Along with the engine, I also created a basic AI using Alpha-Beta-Pruning. Though there must be a bug somewhere in this, as I cannot get above a depth of two moves without the browser crashing.
+This is a simple chess engine written in JavaScript. I was just starting to get into chess, so I figured this project was a great way to mix my passions. Along with the engine, I also created a basic AI using alpha-beta pruning. Though there must be a bug somewhere in this, as I cannot get above a depth of two moves without the browser crashing.
 
 ## Features
 
